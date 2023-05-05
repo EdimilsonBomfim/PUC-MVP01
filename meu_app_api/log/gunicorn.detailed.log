@@ -1,0 +1,5 @@
+[2023-05-04 03:15:09,681] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\Edmilson\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-04 03:15:14,349] INFO _log() L224   * Detected change in 'C:\\DEV\\SIS\\APRENDE\\HTML_JS_BOOTSTRAP_PAYTHON\\teste4\\meu_app_api\\schemas\\__init__.py', reloading - call_trace=C:\Users\Edmilson\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-04 03:15:14,611] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\Edmilson\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-04 03:15:17,686] INFO _log() L224   * Detected change in 'C:\\DEV\\SIS\\APRENDE\\HTML_JS_BOOTSTRAP_PAYTHON\\teste4\\meu_app_api\\schemas\\__init__.py', reloading - call_trace=C:\Users\Edmilson\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-05-04 03:15:17,865] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\Edmilson\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
